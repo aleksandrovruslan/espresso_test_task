@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">espresso_test_task</string>
+    <string name="continue_btn">Continue</string>
 </resources>
