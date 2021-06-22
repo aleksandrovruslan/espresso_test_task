@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stage_1">1 stage</string>
+    <string name="stage_2">2 stage</string>
+    <string name="stage_3">3 stage</string>
+    <string name="done">Done</string>
+</resources>
